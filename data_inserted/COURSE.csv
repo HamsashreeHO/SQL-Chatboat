@@ -1,0 +1,76 @@
+COURSE_NAME,DEPT_ID,COURSE_CODE,credits
+Engineering Mathematics I,1,CSE101,4
+Engineering Physics,1,CSE102,3
+Basic Electrical Engineering,1,CSE103,3
+Problem Solving with C Programming,1,CSE104,4
+Engineering Graphics,1,CSE105,3
+Engineering Mathematics II,1,CSE106,4
+Digital Logic Design,1,CSE107,3
+Data Structures with C++,1,CSE108,4
+Object-Oriented Programming (Java),1,CSE109,4
+Environmental Science,1,CSE110,2
+Engineering Mathematics III,1,CSE201,4
+Computer Organization & Architecture,1,CSE202,4
+Design & Analysis of Algorithms,1,CSE203,4
+Operating Systems,1,CSE204,4
+Discrete Mathematical Structures,1,CSE205,3
+Database Management Systems,1,CSE206,4
+Software Engineering,1,CSE207,3
+Microprocessors & Assembly Language,1,CSE208,3
+Computer Networks,1,CSE209,4
+Probability & Statistics,1,CSE210,3
+Theory of Computation,1,CSE301,4
+Compiler Design,1,CSE302,4
+Artificial Intelligence (Intro),1,CSE303,3
+Web Technology,1,CSE304,4
+Data Mining,1,CSE305,3
+Machine Learning,1,CSE306,4
+Cryptography & Network Security,1,CSE307,4
+Big Data Analytics,1,CSE308,3
+Mobile Application Development,1,CSE309,3
+Blockchain Technology,1,CSE310,3
+Deep Learning,1,CSE401,4
+Cloud Computing,1,CSE402,4
+Advanced Algorithms,1,CSE403,4
+Project Phase I,1,CSE404,2
+Management Principles,1,CSE405,2
+Cybersecurity,1,CSE406,3
+Data Science with Python,1,CSE407,4
+Project Phase II,1,CSE408,6
+Seminar / Internship,1,CSE409,2
+Engineering Mathematics I,2,ISE101,4
+Engineering Physics,2,ISE102,3
+Basic Electrical Engineering,2,ISE103,3
+Problem Solving with C Programming,2,ISE104,4
+Engineering Graphics,2,ISE105,3
+Engineering Mathematics II,2,ISE106,4
+Digital Logic Design,2,ISE107,3
+Data Structures & Algorithms,2,ISE108,4
+Object-Oriented Programming (Java),2,ISE109,4
+Environmental Science,2,ISE110,2
+Mathematics III,2,ISE201,4
+Computer Organization & Architecture,2,ISE202,4
+Software Engineering,2,ISE203,3
+Web Programming,2,ISE204,4
+Database Management Systems,2,ISE205,4
+Operating Systems,2,ISE206,4
+Computer Networks,2,ISE207,4
+Theory of Computation,2,ISE208,4
+Business Communication,2,ISE209,2
+Information Security,2,ISE301,4
+Data Mining & Warehousing,2,ISE302,3
+Human-Computer Interaction,2,ISE303,3
+Software Testing,2,ISE304,3
+Artificial Intelligence & Machine Learning,2,ISE305,4
+Information Retrieval Systems,2,ISE306,3
+Big Data Analytics,2,ISE307,3
+E-Commerce & ERP,2,ISE308,3
+Advanced Databases,2,ISE401,4
+Deep Learning & Applications,2,ISE402,4
+Cloud Computing,2,ISE403,4
+Project Phase I,2,ISE404,2
+Open Elective,2,ISE405,2
+Data Science & Visualization,2,ISE406,4
+Cybersecurity Management,2,ISE407,3
+Project Phase II,2,ISE408,6
+Seminar / Internship,2,ISE409,2
